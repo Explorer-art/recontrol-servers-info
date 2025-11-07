@@ -1,0 +1,8 @@
+{
+  "servers": [
+    {
+      "ip": "localhost",
+      "port": 7777
+    }
+  ]
+}
